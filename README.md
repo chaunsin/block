@@ -1,6 +1,6 @@
 # block
 
-parse fabric block
+example parse fabric block
 
 # version
 
